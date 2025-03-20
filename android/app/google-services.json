@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598243161877",
+    "project_id": "my-itineraries",
+    "storage_bucket": "my-itineraries.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598243161877:android:9f35dfb88f8f58b909db1c",
+        "android_client_info": {
+          "package_name": "com.example.itinerary_generator_with_gemini_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHtlnQ35OxoNGjfgxcPIMby_4qG5k7sJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
